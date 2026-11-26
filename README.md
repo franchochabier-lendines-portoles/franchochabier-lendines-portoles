@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Francho 👋
 
-<!--
-**franchochabier-lendines-portoles/franchochabier-lendines-portoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data & AI Analyst based in Madrid. I build data and AI tools that save teams real time: AI agents, end-to-end automations and BI dashboards.
 
-Here are some ideas to get you started:
+- 🎓 BSc Business Analytics (2026) · BSc Computer Engineering (2027) at Universidad Francisco de Vitoria, a bilingual programme taught in English
+- 💼 Data & AI Automation Intern, Operations, at a digital health company (2025–2026): a Gemini-based AI agent for public tender analysis (~400 h of manual work saved per month), Salesforce → Google Sheets ETL pipelines, and a Looker Studio dashboard for leadership
+- 🌍 Open to Data Analyst, Analytics Engineer and AI/Automation roles from September 2027, in Spain, Dublin, Milan, elsewhere in Europe or remote
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python · SQL · JavaScript (Google Apps Script) · TypeScript · R · Power BI · Looker Studio · LLMs & AI agents · ETL
+
+#### Featured projects
+
+| Project | What it is |
+|---|---|
+| [radar-viral](https://github.com/franchochabier-lendines-portoles/radar-viral) | Real-time viral news dashboard and email digest: Next.js, TypeScript, Turso, GitHub Actions, Vercel |
+| [incidencias-salud-digital-automatizacion](https://github.com/franchochabier-lendines-portoles/incidencias-salud-digital-automatizacion) | Incident triage, provider routing and SLA reminders for a digital health service (Apps Script) |
+| [resumen-diario-usos-costes-ingresos](https://github.com/franchochabier-lendines-portoles/resumen-diario-usos-costes-ingresos) | Daily usage, cost and B2B/pay-per-use revenue tracking with automated summary email |
+| [ocr-facturas-pdf-a-google-sheets](https://github.com/franchochabier-lendines-portoles/ocr-facturas-pdf-a-google-sheets) | OCR of emailed PDF invoices, data extraction and classification into Google Sheets |
+| [TFG-FRANCHO-LENDINES](https://github.com/franchochabier-lendines-portoles/TFG-FRANCHO-LENDINES) | Bachelor's thesis: data governance for ESG funds (pandas, scikit-learn, K-Means, Random Forest) |
+
+📫 [LinkedIn](https://www.linkedin.com/in/francho-chabier-lendines-portoles)
