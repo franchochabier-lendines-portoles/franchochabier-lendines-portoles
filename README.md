@@ -12,6 +12,7 @@ Junior Data & AI Analyst based in Madrid. I build data and AI tools that save te
 
 | Project | What it is |
 |---|---|
+| [public-tender-analysis-agent](https://github.com/franchochabier-lendines-portoles/public-tender-analysis-agent) | LLM agent that reads public tender documents and returns a sourced GO / NO-GO bid verdict (~400 h/month saved during my internship) |
 | [radar-viral](https://github.com/franchochabier-lendines-portoles/radar-viral) | Real-time viral news dashboard and email digest: Next.js, TypeScript, Turso, GitHub Actions, Vercel |
 | [incidencias-salud-digital-automatizacion](https://github.com/franchochabier-lendines-portoles/incidencias-salud-digital-automatizacion) | Incident triage, provider routing and SLA reminders for a digital health service (Apps Script) |
 | [resumen-diario-usos-costes-ingresos](https://github.com/franchochabier-lendines-portoles/resumen-diario-usos-costes-ingresos) | Daily usage, cost and B2B/pay-per-use revenue tracking with automated summary email |
